@@ -4,7 +4,7 @@
 Avant tout, je tiens à préciser que cet outil a été développé à des fins de test et d'étude. Les auteurs de cet outil déclinent toute responsabilité en cas de quelconque utilisation malveillante des programmes.
 
 ## Vidéo d'epxlication disponible :
-https://www.youtube.com/watch?v=0SK69v0rNFk&t=395s
+https://youtu.be/0SK69v0rNFk
 
 ## Utilisation
 - ```base_apprentissage.py``` permet de créer une base d'apprentissage ```base.txt``` à partir d'une entrée audio.
